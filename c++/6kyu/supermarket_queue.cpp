@@ -2,7 +2,7 @@
 #include <numeric>
 #include <vector>
 
-// sort, accumulate
+// sort,
 
 long queueTimeOptimized(std::vector<int> customers, int n) {
   std::vector<long> times(n);
